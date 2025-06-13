@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/158537544?v=4&s=160" width="120" style="border-radius:50%;" alt="Anne Zwift"/>
+  <img src="https://avatars.githubusercontent.com/u/145778485?s=400&u=a658f371eb2b2ef7fe18f4433763b2dcfc1ebb56&v=4&s=160" width="120" style="border-radius:50%;" alt="Anne Zwift"/>
 </p>
 
 
