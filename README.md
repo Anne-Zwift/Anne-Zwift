@@ -10,10 +10,13 @@
 - Latest project: showcasing my 3 learning projects in a Portfolio website.
 - Link: https://anne-zwift.github.io/FED1-POR1-Anne-Zwift/
 - Link: [https://github.com/Anne-Zwift/Oslo-Science-Museum] https://anne-zwift.github.io/Oslo-Science-Museum/
-- 
+- Link: [https://github.com/Anne-Zwift/RainydaysJS] https://anne-zwift.github.io/RainydaysJS/
+- Link: https://sparkly-boba-6465ec.netlify.app/
 
 ## 🛠️ Skills
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](#)
 ...
 
 ## 📊 Stats
