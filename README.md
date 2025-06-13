@@ -9,7 +9,7 @@
 ## 🚀 Projects
 - Latest project: showcasing my 3 learning projects in a Portfolio website.
 - Link: https://anne-zwift.github.io/FED1-POR1-Anne-Zwift/
-- Link: https://github.com/Anne-Zwift/Oslo-Science-Museum
+- Link: [https://github.com/Anne-Zwift/Oslo-Science-Museum] https://anne-zwift.github.io/Oslo-Science-Museum/
 - 
 
 ## 🛠️ Skills
