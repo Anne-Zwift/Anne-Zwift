@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Anne-Zwift 
-- 🌱 I’m currently learning Frontend developing
-
 # Hi, I'm Anne! 👋
 
 - 🔭 I’m currently working on projects to learn HTML, CSS and JavaScript
@@ -10,7 +7,7 @@
 - ⚡ Fun fact and passions: Coffee and Cycling makes the day!
 
 ## 🚀 Projects
-- [Awesome Project](link) - Latest project: showcasing my 3 learning projects in a Portfolio website.
+- Latest project: showcasing my 3 learning projects in a Portfolio website.
 - Link: https://anne-zwift.github.io/FED1-POR1-Anne-Zwift/
 - 
 - 
