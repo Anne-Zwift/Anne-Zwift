@@ -27,6 +27,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anne-Zwift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## 📊 Stats
 
+## 📈 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anne-Zwift&theme=default)](https://git.io/streak-stats)
+
 ![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anne-Zwift&show_icons=true)
 
 
