@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on projects to learn HTML, CSS and JavaScript
 - 🌱 I’m learning Frontend Developing
 - 📫 How to reach me: sykletur@icloud.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact and passions: Coffee and Cycling makes the day!
 
 ## 🚀 Projects
@@ -12,6 +12,7 @@
 - Link: [https://github.com/Anne-Zwift/Oslo-Science-Museum] https://anne-zwift.github.io/Oslo-Science-Museum/
 - Link: [https://github.com/Anne-Zwift/RainydaysJS] https://anne-zwift.github.io/RainydaysJS/
 - Link: https://sparkly-boba-6465ec.netlify.app/
+  
 
 ## 🛠️ Skills
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)](#)
