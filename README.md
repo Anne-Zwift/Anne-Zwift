@@ -24,6 +24,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](#)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anne-Zwift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## 📊 Stats
 
 ![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anne-Zwift&show_icons=true)
