@@ -1,7 +1,26 @@
 - 👋 Hi, I’m @Anne-Zwift 
 - 🌱 I’m currently learning Frontend developing
 
+# Hi, I'm Anne! 👋
 
+- 🔭 I’m currently working on projects to learn HTML, CSS and JavaScript
+- 🌱 I’m learning Frontend Developing
+- 📫 How to reach me: sykletur@icloud.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact and passions: Coffee and Cycling makes the day!
+
+## 🚀 Projects
+- [Awesome Project](link) - Latest project: showcasing my 3 learning projects in a Portfolio website.
+- Link: https://anne-zwift.github.io/FED1-POR1-Anne-Zwift/
+- 
+- 
+
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+...
+
+## 📊 Stats
+![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anne-Zwift&show_icons=true)
 
 
 <!---
