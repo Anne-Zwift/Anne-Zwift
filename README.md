@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/158537544?v=4&s=160" width="120" style="border-radius:50%;" alt="Anne Zwift"/>
+</p>
+
+
 # Hi, I'm Anne! 👋
 
 - 🔭 I’m currently working on projects to learn **HTML**, **CSS**, and **JavaScript**
