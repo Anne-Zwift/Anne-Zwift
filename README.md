@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on projects to learn **HTML**, **CSS**, and **JavaScript**
 - 🌱 I’m learning **Frontend Development**
-- 📫 How to reach me: <a href="mailto:&#x65;&#x78;&#x61;&#x6d;&#x70;&#x6c;&#x65;&#x40;&#x64;&#x6f;&#x6d;&#x61;&#x69;&#x6e;&#x2e;&#x63;&#x6f;&#x6d;">Contact me</a>
+- 📫 How to reach me: <a href="mailto:&#x6a;&#x6f;&#x68;&#x6e;&#x2e;&#x64;&#x6f;&#x65;&#x40;&#x67;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">Contact me</a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact and passions: ☕ Coffee & 🚴 Cycling make my day!
 
