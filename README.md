@@ -17,7 +17,7 @@
 - **Oslo Science Museum:** [Live Site](https://anne-zwift.github.io/Oslo-Science-Museum/) | [Source Code](https://github.com/Anne-Zwift/Oslo-Science-Museum)
 - **RainydaysJS:** [Live Site](https://anne-zwift.github.io/RainydaysJS/) | [Source Code](https://github.com/Anne-Zwift/RainydaysJS)
 - **Netlify Project:** [sparkly-boba-6465ec.netlify.app](https://sparkly-boba-6465ec.netlify.app/)
-- **Netlify Project:** [Social Media App](https://vite-indoorcyclingblog.netlify.app/#login)
+- **Netlify Project:** [Social Media App](https://vite-indoorcyclingblog.netlify.app)
 
 ## 🛠️ Skills
 
