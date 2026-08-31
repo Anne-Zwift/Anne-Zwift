@@ -6,7 +6,9 @@
 # Hi, I'm Anne! 👋
 
 - 🔭 I’m currently working on projects to learn **JavaScript**, **TypeScript**, **HTML**, **CSS**.
-- 🌱 I’m learning **Frontend Development**, **writing and running unit and integration tests with Jest and Vitest to ensure code reliability.** I've done one project building **Backend - Buildt a REST API with Express**
+- 🌱 I’m learning **Frontend Development**, **writing and running unit and integration tests with Jest and Vitest to ensure code reliability.**
+- **Backend Project - REST API with Express** The technology stack with requirements:
+      Express.js with TypeScript, MySQL database with mysql2, JWT authentication with bcrypt password hashing, Basic validation and Simple error handling.
 - 📫 How to reach me: <a href="mailto:&#x73;&#x79;&#x6b;&#x6c;&#x65;&#x74;&#x75;&#x72;&#x40;&#x69;&#x63;&#x6c;&#x6f;&#x75;&#x64;&#x2e;&#x63;&#x6f;&#x6d;">Contact me</a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact and passions: ☕ Coffee & 🚴 Cycling make my day!
