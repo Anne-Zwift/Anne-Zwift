@@ -5,7 +5,7 @@
 
 # Hi, I'm Anne! 👋
 
-- 🔭 I’m currently working on projects to learn **JavaScript**, **TypeScript**, **HTML**, **CSS**.
+- 🔭 I’m currently working on projects to learn **JavaScript**, **TypeScript**, **HTML**, **CSS**, **Design in Figma**.
 - 🌱 I’m learning **Frontend Development**, **writing and running unit and integration tests with Jest and Vitest to ensure code reliability.**
 - **Backend Project - REST API with Express** The technology stack with requirements:
       Express.js with TypeScript, MySQL database with mysql2, JWT authentication with bcrypt password hashing, Basic validation and Simple error handling.
@@ -14,7 +14,8 @@
 - ⚡ Fun fact and passions: ☕ Coffee & 🚴 Cycling make my day!
 
 ## 🚀 Projects
-
+- **Backend REST API with Express:** [REST API Express](https://github.com/Anne-Zwift/Express.js-API), [Project Plan](https://github.com/users/Anne-Zwift/projects/10)
+- **Semester Project:** [Semester Project - APP](https://github.com/Anne-Zwift/semester-project-2) and [Netlify](https://golden-conkies-93f7fb.netlify.app/), [Project Plan](https://github.com/users/Anne-Zwift/projects/9)
 - **Portfolio Website:** [anne-zwift.github.io/FED1-POR1-Anne-Zwift](https://anne-zwift.github.io/FED1-POR1-Anne-Zwift/)
 - **Oslo Science Museum:** [Live Site](https://anne-zwift.github.io/Oslo-Science-Museum/) | [Source Code](https://github.com/Anne-Zwift/Oslo-Science-Museum)
 - **RainydaysJS:** [Live Site](https://anne-zwift.github.io/RainydaysJS/) | [Source Code](https://github.com/Anne-Zwift/RainydaysJS)
