@@ -10,6 +10,7 @@
 - **Backend Project - REST API with Express** The technology stack with requirements:
       Express.js with TypeScript, MySQL database with mysql2, JWT authentication with bcrypt password hashing, Basic validation and Simple error handling.
 - **Frameworks** REACT - [Learning Journey](https://github.com/Anne-Zwift/react-learning-journey)
+- **Frameworks** REACT - [TanStack/react-router, TanStack/react-query-devtools, ErrorBounary ...](https://github.com/Anne-Zwift/norwegian-recipes)
 - 📫 How to reach me: <a href="mailto:&#x73;&#x79;&#x6b;&#x6c;&#x65;&#x74;&#x75;&#x72;&#x40;&#x69;&#x63;&#x6c;&#x6f;&#x75;&#x64;&#x2e;&#x63;&#x6f;&#x6d;">Contact me</a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact and passions: ☕ Coffee & 🚴 Cycling make my day!
